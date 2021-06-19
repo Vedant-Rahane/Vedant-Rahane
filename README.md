@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm [Vedant Rahane](https://portfolio-vedant.web.app/)</h1>
+<h1 align="center">Hi 👋, I'm Vedant Rahane</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 
