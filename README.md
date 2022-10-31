@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Vedant Rahane</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A CSE undergrad from India</h3>
 
 
-- 🌱 I’m currently learning **MERN Stack and Data Science**
+- 🌱 I’m currently learning **DSA and Data Science**
 
 - 📫 How to reach me **vedant.a.rahane@gmail.com**
 
